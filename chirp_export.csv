@@ -1,2 +1,2 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CAL,Digital Code
-0,,146.010000,,0.600000,,88.5,88.5,023,NN,FM,5.00,,,,,test,
+0,,146.010000,,0.600000,,88.5,88.5,023,NN,FM,5.00,,,,,,test
