@@ -40,7 +40,7 @@ hand held scanner.
 ### GitHub
 
 You can view the Git repo this blog lives in at [GitHub](https://github.com/russelltadams/km6kfx/). You can also view it either in [plain Markdown](https://github.com/russelltadams/km6kfx/blob/master/docs/README.md) or this fancy [Jekyll
-template](https://km6kfx.us/).
+template](http://km6kfx.us/).
 
 ### Contact
 
