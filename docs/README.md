@@ -1,6 +1,6 @@
 ## Welcome to the radio blog of km6kfx
 
-You can view the Git repo this blog lives in at [GitHub](https://github.com/russelltadams/km6kfx/docs/README.md)
+You can view the Git repo this blog lives in at [GitHub](https://github.com/russelltadams/km6kfx/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
