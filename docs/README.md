@@ -1,6 +1,7 @@
 ## Welcome to the radio blog of km6kfx
 
-You can view the Git repo this blog lives in at [GitHub](https://github.com/russelltadams/km6kfx/)
+You can view the Git repo this blog lives in at [GitHub](https://github.com/russelltadams/km6kfx/). You can also view it either in [plain Markdown](https://github.com/russelltadams/km6kfx/blob/master/docs/README.md) or this fancy [Jekyll
+template](https://http://km6kfx.us/).
 
 I use this blog to log my contacts as well as save any radio settings,
 documentation or code produced while using my radio.
