@@ -12,14 +12,19 @@ easy to use. I can recommend it as a nice starter hand-held
 HAM radio for UHF/VHF. Here's the frequency and power specs.
 
 ```yaml
-VHF:
-  TX: 144-148MHz
-  RX: 136-174MHz
-    Power: 5W/1W
-UHF:
-  TX: 420-450MHz
-  RX: 420-520MHz
-    Power: 4W/1W
+KG-UV3D:
+  VHF:
+    TX: 144-148 MHz
+    RX: 136-174 MHz
+    Power:
+      High: 5W
+      Low: 1W
+  UHF:
+    TX: 420-450 MHz
+    RX: 420-520 MHz
+    Power:
+      High: 4W
+      Low: 1W
 ```
 The KG-UV3D can listen on two UHF or VHF frequencies, or
 one of each. It can transmit on one while listening on both
