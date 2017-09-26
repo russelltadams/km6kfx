@@ -2,36 +2,38 @@
 
 You can view the Git repo this blog lives in at [GitHub](https://github.com/russelltadams/km6kfx/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I use this blog to log my contacts as well as save any radio settings,
+documentation or code produced while using my radio.
 
-### Markdown
+### Radio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I currently have only a [Wouxun KG-UV3D](https://powerwerx.com/wouxun-kguv3d-handheld-amateur-radio), but the thing has been super fun, durable and
+easy to use. I can recommend it as a nice starter hand-held
+HAM radio for UHF/VHF. Here's the frequency and power specs.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```yaml
+VHF:
+  TX: 144-148MHz
+  RX: 136-174MHz
+    Power: 5W/1W
+UHF:
+  TX: 420-450MHz
+  RX: 420-520MHz
+    Power: 4W/1W
 ```
+The KG-UV3D can listen on two UHF or VHF frequencies, or
+one of each. It can transmit on one while listening on both
+and it has convenient button on the front for switching to
+"a/b" mode and switching which frequency you want to transmit
+on. Easy.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Wish List
+- I'd like to get a scanner, the KG-UVD3 doesn't scan that
+well, and well, thats not really what it is for. That said, especially when I am traveling, it would be nice to have a
+hand held scanner.
+- I'd love to have an antenna on my roof. Even if just a place to stick my hand made copper J-pole.
+- More time to mess around with HAM radio.
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/russelltadams/km6kfx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<km6kfx@km6kfx.us>
