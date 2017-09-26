@@ -40,6 +40,11 @@ hand held scanner.
 - I'd love to have an antenna on my roof. Even if just a place to stick my hand made copper J-pole.
 - More time to mess around with HAM radio.
 
+### Github
+
+You can view the Git repo this blog lives in at [GitHub](https://github.com/russelltadams/km6kfx/). You can also view it either in [plain Markdown](https://github.com/russelltadams/km6kfx/blob/master/docs/README.md) or this fancy [Jekyll
+template](https://http://km6kfx.us/).
+
 ### Contact
 
 <km6kfx@km6kfx.us>
