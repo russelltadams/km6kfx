@@ -1,4 +1,4 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,
 1,,162.400000,split,146.850000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 2,WNG655,162.425000,split,144.000000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 3,WWF64,162.450000,split,144.000000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
