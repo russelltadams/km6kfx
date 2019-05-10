@@ -1,13 +1,11 @@
 ## Welcome to the radio blog of km6kfx
 
-I use this blog to log my contacts as well as save any radio settings,
-documentation or code produced while using my radio.
+I was going to use this blog to log my contacts as well as save any radio settings,
+documentation or code produced while using my radio... but my radio got stolen. 
 
 ### Radio
 
-I currently have only a [Wouxun KG-UV3D](https://powerwerx.com/wouxun-kguv3d-handheld-amateur-radio), but the thing has been super fun, durable and
-easy to use. I can recommend it as a nice starter hand-held
-HAM radio for UHF/VHF. Here's the frequency and power specs.
+I use to have a [Wouxun KG-UV3D](https://powerwerx.com/wouxun-kguv3d-handheld-amateur-radio). It was super fun, durable and easy to use. I can recommend it as a nice starter hand-held HAM radio for UHF/VHF. Here's the frequency and power specs.
 
 ```yaml
 KG-UV3D:
