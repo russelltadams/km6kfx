@@ -17,7 +17,7 @@ Using a Xiegu G90, mostly FT8 on 10M, between 1 and 20 watts, using EFRW or a G5
 
 ### Latest contacts
 
-[QRZ logbook](https://logbook.qrz.com/lbstat/KM6KFX/)
+- [QRZ logbook](https://logbook.qrz.com/lbstat/KM6KFX/)
 
 
 ### GitHub
