@@ -4,7 +4,7 @@ Blogging and HAMlogging...
 
 ### Radio
 
-Xiegu G90 
+Using a Xiegu G90, mostly FT8 on 10M, between 1 and 20 watts, using EFRW or a G5RV Jr. Dipole thrown haphazarldy just about anywhere I can get it off the ground around my yard. Technician class, studying for General. 
 
 ```auto
  Tx      1776 ~ CQ KM6KFX CM87
